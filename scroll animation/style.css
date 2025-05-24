@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #0f0f0f;
+    position: relative;
+
+}
+
+.section_cmn{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec_1 {
+    background-color: #f8bcbc; /* soft red/pink */
+}
+
+.sec_2 {
+    background-color: #c8f7c5; /* soft green */
+}
+
+.sec_3 {
+    background-color: #c5d8ff; /* soft blue */
+}
+.box_cmn{
+    height: 300px;
+    width: 300px;
+}
+.b1{
+    background-color: #3844ec; /* dark gray for light red background */
+}
+
+.b2 {
+    background-color: #cc542d; /* deep blue-gray for soft green background */
+}
+
+.b3 {
+    background-color: #31e64c; /* strong indigo for soft blue background */
+}

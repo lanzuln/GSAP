@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #0f0f0f;
+    position: relative;
+    overflow-x: hidden;
+
+}
+
+.section_cmn{
+    height: 100%;
+    width: 100%;
+}
+.sec_1 {
+    background-color: #f8bcbc; /* soft red/pink */
+}
+
+.sec_2 {
+    background-color: #c8f7c5; /* soft green */
+}
+.sec3{
+    background-color: #f8c8f7; /* soft purple */
+}
+
+.sec_2 h1{
+    font-size: 40vw;
+    font-family:Arial, Helvetica, sans-serif
+}
